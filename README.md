@@ -6,7 +6,7 @@
 4. Model Building
 5. Model deployment
 
-# Maturing Ml project resuable and scalable
+# Maturing Ml projects resuable and scalable
 
 1. Serving model as API
 2. Running App on containers
