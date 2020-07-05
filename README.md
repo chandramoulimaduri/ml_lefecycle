@@ -1,4 +1,4 @@
-#Machine Leanring lifecycle
+# Machine Leanring lifecycle
 
 1. Data Analysis
 2. Feature Engineering
